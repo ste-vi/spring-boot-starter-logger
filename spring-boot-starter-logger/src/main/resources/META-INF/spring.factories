@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.stevi.springbootstarterlogger.config.LoggerAutoConfiguration
+com.stevi.springbootstarterlogger.config.LoggerAutoConfiguration

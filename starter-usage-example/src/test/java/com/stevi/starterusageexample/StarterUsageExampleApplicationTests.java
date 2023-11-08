@@ -1,10 +1,10 @@
-package com.stevi.springbootstarterlogger;
+package com.stevi.starterusageexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootStarterLoggerApplicationTests {
+class StarterUsageExampleApplicationTests {
 
 	@Test
 	void contextLoads() {
